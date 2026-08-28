@@ -26,7 +26,7 @@
 
 ---
 
-### [Часть I. До запуска: что уже есть в системе](chapters/01_do-zapuska/01-01_chto-na-diske.md)
+### [Часть 1. До запуска: что уже есть в системе](chapters/01_do-zapuska/01-01_chto-na-diske.md)
 
 - [1.1. Что лежит на диске после установки платформы](chapters/01_do-zapuska/01-01_chto-na-diske.md)
 - [1.2. Что ещё установлено рядом с платформой](chapters/01_do-zapuska/01-02_chto-eshche-ustanovleno.md)
@@ -36,7 +36,7 @@
 
 ---
 
-### [Часть II. Лаунчер `1cestart.exe`](chapters/02_launcher/02-01_zachem-launcher.md)
+### [Часть 2. Лаунчер `1cestart.exe`](chapters/02_launcher/02-01_zachem-launcher.md)
 
 - [2.1. Что делает лаунчер и почему он вообще существует](chapters/02_launcher/02-01_zachem-launcher.md)
 - [2.2. Что лаунчер делает первым делом](chapters/02_launcher/02-02_pervye-shagi.md)
@@ -51,7 +51,7 @@
 
 ---
 
-### [Часть III. Сетевой путь до сервера](chapters/03_setevoy-put/03-01_chto-znaet-klient.md)
+### [Часть 3. Сетевой путь до сервера](chapters/03_setevoy-put/03-01_chto-znaet-klient.md)
 
 - [3.1. Что клиент знает к этому моменту](chapters/03_setevoy-put/03-01_chto-znaet-klient.md)
 - [3.2. Разрешение имени хоста: DNS](chapters/03_setevoy-put/03-02_dns.md)
@@ -61,7 +61,7 @@
 
 ---
 
-### [Часть IV. Подключение к информационной базе](chapters/04_podklyuchenie/04-01_fajlovaya-baza.md)
+### [Часть 4. Подключение к информационной базе](chapters/04_podklyuchenie/04-01_fajlovaya-baza.md)
 
 - [4.1. Файловая база: всё в одном процессе](chapters/04_podklyuchenie/04-01_fajlovaya-baza.md)
 - [4.2. Клиент-серверная база: цепочка ragent → rmngr → rphost](chapters/04_podklyuchenie/04-02_klient-server.md)
@@ -74,7 +74,7 @@
 
 ---
 
-### [Часть V. Идентификация и авторизация](chapters/05_identifikaciya/05-01_autentifikaciya.md)
+### [Часть 5. Идентификация и авторизация](chapters/05_identifikaciya/05-01_autentifikaciya.md)
 
 - [5.1. Аутентификация пользователя](chapters/05_identifikaciya/05-01_autentifikaciya.md)
 - [5.2. Где хранятся пользователи и хеши паролей](chapters/05_identifikaciya/05-02_gde-polzovateli.md)
@@ -87,7 +87,7 @@
 
 ---
 
-### [Часть VI. Подготовка прикладного решения к работе](chapters/06_podgotovka-resheniya/06-01_zagruzka-metadannyh.md)
+### [Часть 6. Подготовка прикладного решения к работе](chapters/06_podgotovka-resheniya/06-01_zagruzka-metadannyh.md)
 
 - [6.1. Загрузка метаданных конфигурации в rphost](chapters/06_podgotovka-resheniya/06-01_zagruzka-metadannyh.md)
 - [6.2. Применение расширений конфигурации](chapters/06_podgotovka-resheniya/06-02_rasshireniya.md)
@@ -97,7 +97,7 @@
 
 ---
 
-### [Часть VII. Компиляция модулей](chapters/07_kompilyaciya/07-01_model-ispolneniya.md)
+### [Часть 7. Компиляция модулей](chapters/07_kompilyaciya/07-01_model-ispolneniya.md)
 
 - [7.1. Модель исполнения: байт-код стек-машины](chapters/07_kompilyaciya/07-01_model-ispolneniya.md)
 - [7.2. Контексты компиляции: серверный и клиентский](chapters/07_kompilyaciya/07-02_konteksty.md)
@@ -106,7 +106,7 @@
 
 ---
 
-### [Часть VIII. Старт сеанса и построение интерфейса](chapters/08_start-seansa/08-01_sozdanie-seansa.md)
+### [Часть 8. Старт сеанса и построение интерфейса](chapters/08_start-seansa/08-01_sozdanie-seansa.md)
 
 - [8.1. Создание сеанса в кластере](chapters/08_start-seansa/08-01_sozdanie-seansa.md)
 - [8.2. Обработчики ПередНачаломРаботыСистемы и ПриНачалеРаботыСистемы](chapters/08_start-seansa/08-02_handlery-nachala.md)
@@ -119,7 +119,7 @@
 
 ---
 
-### [Часть IX. Сквозные темы](chapters/09_skvoznye-temy/09-01_oshibki-diagnostika.md)
+### [Часть 9. Сквозные темы](chapters/09_skvoznye-temy/09-01_oshibki-diagnostika.md)
 
 - [9.1. Ошибки и общие принципы диагностики](chapters/09_skvoznye-temy/09-01_oshibki-diagnostika.md)
 - [9.2. Логи и инструменты диагностики](chapters/09_skvoznye-temy/09-02_logi-instrumenty.md)
